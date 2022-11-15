@@ -3,7 +3,7 @@ Dark theme for OPNsense, because real networking people dwell in the dark.
 
 the .txz package can be installed with:
 
-    sudo pkg add https://github.com/mihakralj/opnsense-theme-dark/raw/main/os-theme-dark-devel-0.1.txz
+    sudo pkg add https://github.com/axisfx24/opnsense-theme-dark/raw/main/os-theme-dark-devel-0.1.txz
 
 after installation, a new dark theme should appear in System-General -> Theme
 
